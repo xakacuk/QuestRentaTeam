@@ -1,0 +1,6 @@
+target 'QuestRentaTeam' do
+  pod 'Alamofire'
+  pod 'AlamofireImage'
+  pod 'MBProgressHUD'
+  use_frameworks!
+end

@@ -1,0 +1,6 @@
+framework module Pods_QuestRentaTeam {
+  umbrella header "Pods-QuestRentaTeam-umbrella.h"
+
+  export *
+  module * { export * }
+}
